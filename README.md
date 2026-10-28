@@ -1,5 +1,9 @@
 # HacKerGAme
 
+### [▶ Play in your browser](https://ek9n.github.io/HacKerGAme/)
+
+No download, no account – runs in Chrome, Firefox and Edge. Online leaderboard included.
+
 ![Screenshot from 2024-07-17 23-36-13](https://github.com/user-attachments/assets/731dba10-e4b0-4ecf-a422-800752f1832d)
 
 Hack the whole new school-cluster!
